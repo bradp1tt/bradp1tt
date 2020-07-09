@@ -1,4 +1,4 @@
-### Hi there 👋
+### on vacation for a few months 🏝 
 
 <!--
 **bradp1tt/bradp1tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
