@@ -1,5 +1,9 @@
 ### on vacation for a few months 🏝 
 
+music to listen to while browsing my github: 
+
+[Survivor's Guilt - Feed me to the Forest](https://www.youtube.com/watch?v=we2obMWz6yA)  (YouTube link)
+
 <!--
 **bradp1tt/bradp1tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
