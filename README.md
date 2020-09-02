@@ -1,6 +1,6 @@
-### on vacation for a few months 🏝 
+<!-- ### on vacation for a few months 🏝 -->
 
-music to listen to while browsing my github: 
+;; i use this new GitHub account to track what I'm learning. none of my code here act as my portfolio or are an indication of how I write code for production. here's music to listen to while browsing my github:
 
 [Survivor's Guilt - Feed me to the Forest](https://www.youtube.com/watch?v=we2obMWz6yA)  (YouTube link)
 
