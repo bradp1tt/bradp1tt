@@ -1,8 +1,8 @@
 <!-- ### on vacation for a few months 🏝 -->
 
-;; i use this new GitHub account to track what I'm learning. none of my code here act as my portfolio or are an indication of how I write code for production. here's music to listen to while browsing my github:
+;; i made this new github as my 2020 NY resolution to track my learning. None of my code here act as my portfolio or indicate how I write code for production. Pinned repos are for my personal coding reference. Here's music to listen to while browsing my github:
 
-[Survivor's Guilt - Feed me to the Forest](https://www.youtube.com/watch?v=we2obMWz6yA)  (YouTube link)
+🎸 [Survivor's Guilt - Feed me to the Forest](https://www.youtube.com/watch?v=we2obMWz6yA)  (YouTube link)
 
 <!--
 **bradp1tt/bradp1tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
