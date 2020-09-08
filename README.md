@@ -2,7 +2,9 @@
 
 ;; i made this new github as my 2020 NY resolution to track my learning. None of my code here act as my portfolio or indicate how I write code for production. Pinned repos are code I like to reference. Music to listen to while browsing my github:
 
-🎸 [Survivor's Guilt - Feed me to the Forest](https://www.youtube.com/watch?v=we2obMWz6yA)  (YouTube link)
+<!-- 🎸 [Survivor's Guilt - Feed me to the Forest](https://www.youtube.com/watch?v=we2obMWz6yA)  (YouTube link) -->
+
+[Antarctigo Vespucci - I See Failure](https://youtu.be/8nMIe3JSsT0) (YouTube link)
 
 <!--
 **bradp1tt/bradp1tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
