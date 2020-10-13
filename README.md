@@ -12,10 +12,6 @@ Music to listen to while browsing my github: [Antarctigo Vespucci - I See Failur
 
 🎸 [Survivor's Guilt - Feed me to the Forest](https://www.youtube.com/watch?v=we2obMWz6yA)  (YouTube link)
 
-profile view counter for my ego:
-
-![Visitor Count](https://profile-counter.glitch.me/{bradp1tt}/count.svg)
-
 <!-- [Antarctigo Vespucci - I See Failure](https://youtu.be/8nMIe3JSsT0) (YouTube link) -->
 
 <!--
