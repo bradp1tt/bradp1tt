@@ -9,7 +9,7 @@ Music to listen to while browsing my github: [Antarctigo Vespucci - I See Failur
 
 ;; cs student on a brief respite; this is my throwaway GitHub for learning. 
 
-;; i made this new github as my 2020 NY resolution to track my learning. None of my code here act as my portfolio or indicate how I write code for production. Pinned repos are code I like to reference. Music to listen to while browsing my github:
+;; i made this new github as my 2020 NY resolution to track my learning. None of my code here act as my portfolio or indicate how I write code for production. Pinned repos are just code I like to review or reference. Music to listen to while browsing my github:
 
 🎸 [Survivor's Guilt - Feed me to the Forest](https://www.youtube.com/watch?v=we2obMWz6yA)  (YouTube link)
 
