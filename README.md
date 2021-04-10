@@ -13,9 +13,9 @@ Music to listen to while browsing my github: [Antarctigo Vespucci - I See Failur
 
 <!--🎸 [Survivor's Guilt - Feed me to the Forest](https://www.youtube.com/watch?v=we2obMWz6yA)  (YouTube link)-->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnamata&show_icons=true&theme=light) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnamata&show_icons=true&theme=light)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnamata&langs_count=16&theme=light" width="35%" height="100%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnamata&langs_count=16&theme=light" width="35%" height="100%"/> -->
 
 <!-- [Antarctigo Vespucci - I See Failure](https://youtu.be/8nMIe3JSsT0) (YouTube link) -->
 
