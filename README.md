@@ -7,7 +7,7 @@ View all repos/projects in their respective dominant language:
 Music to listen to while browsing my github: [Antarctigo Vespucci - I See Failure](https://youtu.be/8nMIe3JSsT0) (YouTube link) 
 --> 
 
-;; this is my throwaway GitHub for learning.
+;; this is my throwaway GitHub for learning. Serious projects at my gitlab
 
 ;; i made this new github as my 2020 NY resolution to track my learning. None of my code here act as my portfolio or indicate how I write code for production. Pinned repos are just code I review or reference a lot. Music to listen to while browsing my github:
 
